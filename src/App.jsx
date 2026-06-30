@@ -1,5 +1,5 @@
-import SearchBar from './components/SearchBar/SearchBar'
-import WeatherDashboard from './components/WeatherDashboard/WeatherDashboard'
+import SearchBar from './Components/SearchBar/SearchBar'
+import WeatherDashboard from './Components/WeatherDashboard/WeatherDashboard'
 import useWeather from './hooks/useWeather'
 
 const App = () => {
