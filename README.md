@@ -63,4 +63,4 @@ Mobile
    npm run dev
    ```
 👩‍💻 Author
-Ritika Singh
+Hafza Abbasi
