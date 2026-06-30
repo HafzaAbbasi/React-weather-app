@@ -51,8 +51,6 @@ Desktop
 Tablet
 Mobile
 
-The app is designed to work smoothly across different screen sizes, including mobile, tablet, and desktop devices. The layout adjusts automatically to provide a comfortable viewing experience on smaller screens.
-
 ## 🚩Getting Started
 
 1. Clone the repository
